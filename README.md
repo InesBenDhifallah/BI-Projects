@@ -8,7 +8,7 @@ This project analyzes hotel performance and booking data in order to optimize re
 ## 📊 Dashboard Preview
 
 ### Overview Dashboard
-![Overview](images/dashboard1.png)
+![Page d'accueil](bi1.png)
 
 ### Revenue Analysis
 ![Revenue](images/dashboard2.png)
